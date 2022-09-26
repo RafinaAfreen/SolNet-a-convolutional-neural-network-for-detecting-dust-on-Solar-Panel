@@ -1,0 +1,1 @@
+# SolNet-a-convolutional-neural-network-for-detecting-dust-on-Solar-Panel
